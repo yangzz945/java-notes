@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.drools.rule;
+package org.drools.util;
 
 import org.drools.util.FastClassLoader;
 
