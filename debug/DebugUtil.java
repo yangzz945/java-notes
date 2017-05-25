@@ -23,12 +23,6 @@ import org.codehaus.jackson.map.ser.FilterProvider;
 import org.codehaus.jackson.map.ser.impl.SimpleBeanPropertyFilter;
 import org.codehaus.jackson.map.ser.impl.SimpleFilterProvider;
 
-import com.yyh.recommend.caculate.pojo.RecContext;
-import com.yyh.recommend.calculate.util.StringUtil;
-import com.yyh.recommend.command.CalculatorCommand;
-import com.yyh.recommend.dataservice.pojo.Recommendable;
-import com.yyh.recommend.pojo.VideoPackedRecommendable;
-import com.yyh.recommend.pojo.request.RecommendRequest;
 
 /**
  * @author yyh
