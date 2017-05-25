@@ -1,4 +1,4 @@
-package com.youku.recommend.debug;
+package com.yyh.recommend.debug;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
@@ -23,15 +23,15 @@ import org.codehaus.jackson.map.ser.FilterProvider;
 import org.codehaus.jackson.map.ser.impl.SimpleBeanPropertyFilter;
 import org.codehaus.jackson.map.ser.impl.SimpleFilterProvider;
 
-import com.youku.recommend.caculate.pojo.RecContext;
-import com.youku.recommend.calculate.util.StringUtil;
-import com.youku.recommend.command.CalculatorCommand;
-import com.youku.recommend.dataservice.pojo.Recommendable;
-import com.youku.recommend.pojo.YoukuVideoPackedRecommendable;
-import com.youku.recommend.pojo.request.RecommendRequest;
+import com.yyh.recommend.caculate.pojo.RecContext;
+import com.yyh.recommend.calculate.util.StringUtil;
+import com.yyh.recommend.command.CalculatorCommand;
+import com.yyh.recommend.dataservice.pojo.Recommendable;
+import com.yyh.recommend.pojo.VideoPackedRecommendable;
+import com.yyh.recommend.pojo.request.RecommendRequest;
 
 /**
- * @author yangzhizhong
+ * @author yyh
  * 在线debug 工具类
  * 
  * 1、Command中使用 
