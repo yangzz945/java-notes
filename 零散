@@ -1,0 +1,5 @@
+堆外缓存实现
+1、Chronicle-Map
+https://github.com/OpenHFT/Chronicle-Map
+2、ohc
+https://github.com/snazy/ohc
